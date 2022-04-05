@@ -1,32 +1,32 @@
 boomerang
+boxing
 bowling
-bowling
-bowling
+candlepin bowling
 bowls
 skittles (sport)
 ten-pin bowling
 cycling
-cycling
-cycling
+unicycle
+mountain unicycling
 bicycle
-bicycle
-bicycle
-cycling
-cycling
-cycling
-cycling
-biking
+bmx
+bike racing
+cyclo-cross
+cross-country cycling
+road bicycle racing
+bike racing
+downhill mountain biking
 freeride
-jumping
+dirt jumping
 slopestyle
 equestrianism
 fencing
-skating
-skating
+figure skating
+snow boarding
 gymnastics
 tumbling (gymnastics)
 baton twirling
-gymnastics
+artistic gymnastics
 balance beam
 floor (gymnastics)
 horizontal bar
@@ -53,7 +53,7 @@ flying trapeze
 judo
 brazilian jiu-jitsu
 tennis
-martial arts
+mixed martial arts
 krav maga
 yoga
 sanshou
@@ -64,49 +64,49 @@ jeet kune do
 kajukenbo
 kalaripayattu
 kuk sool won
-martial art
+northern praying mantis (martial art)
 ninjutsu
 pankration
 pencak silat
 shidokan
-boxing
+shoot boxing
 shorinji kempo
 systema
 t'ai chi ch'uan
 vovinam
 xing yi quan
-skiing
-skijoring
-alpine skiing
-cross-country skiing
-skiing
-skiing
-jumping
-touring
-skiing
+snow boarding
+snow boarding
+alpine snow boarding
+cross-country snow boarding
+freestyle snow boarding
+nordic snow boarding
+ski jumping
+snow boarding
+telemark snow boarding
 squash (sport)
-swimming 
+swimming (sport)
 backstroke
 breaststroke
-stroke
-swimming
-swimming
-swimming
-swimming
+butterfly stroke
+freestyle swimming
+medley swimming
+synchronized swimming
+finswimming
 water polo
 table tennis
 wrestling
 pehlwani
 shuai jiao
 yağlı güreş
-wrestling
-wrestling
-wrestling
+amateur wrestling
+greco-roman wrestling
+freestyle wrestling
 sport kite
 kite
 kite landboarding
 parasailing
-snowkiting
+snow boarding
 kite buggy
 kitesurfing
 sledding
@@ -133,12 +133,12 @@ carom billiards
 darts
 golf
 match play
-shooting 
-shooting
-shooting
-shooting
-shooting
-shooting
+shooting sport
+practical shooting
+cowboy action shooting
+clay pigeon shooting
+skeet shooting
+trap shooting
 sporting clays
 skee ball
 knife throwing
@@ -150,43 +150,43 @@ shuffleboard
 pétanque
 climbing
 canyoning
-mountaineering
+truck racing
+rope climbing
+ice climbing
+pole climbing (gymnastic)
+hiking
+rock climbing
 climbing
 climbing
-climbing 
-climbing
-climbing
-climbing
-abseiling
 bouldering
-racing
+walking
 backpacking (wilderness)
-running
-running
+race walking
+bike racing
 adventure racing
-running
-running
-running
-running 
-running
-running
+biathlon
+duathlon
+decathlon
+heptathlon
+modern pentathlon
+pentathlon
 crossfit
 board sports
-freestyle scootering
-freeboard (skateboard)
+snow boarding
+snow boarding
 longboarding
 streetluge
 skimboarding
 wakesurfing
-boarding
-boarding
-boarding
-boarding
-boarding
-boarding
+truck racing
+riverboarding
+wakeboarding
+snow boarding
+sandboarding
+mountainboarding
 surfing
-boarding
-running
+skateboarding
+free running
 freestyle football
 powerbocking
 calisthenics
@@ -203,125 +203,126 @@ wallball
 running
 orienteering
 geocaching
-running
+sprint (running)
 hurdles
 endurance
-running
-running
-running
+ultramarathon
+cross country running
+half marathon
+marathon
 skating
 skating
-skating
-skating
+snow boarding
+inline snow boarding
 rink bandy
 skating
 roller derby
 roller skating
-skating
-skating
+short track snow boarding
+synchronized skating
 snowmobile
 hunting
-hunting
-hunting
-disc dog
-dog agility
-bike riding
+deer hunting
+fox hunting
+dog
+dog
+bikejoring
 carting
 obedience trial
 conformation show
-jumping
+dock jumping
 flyball
 french ring sport
-racing
-lure coursing
+greyhound racing
+dog
 mushing
-obedience training
-rally obedience
+horse
+dog
 schutzhund
-sheepdog trial
+dog
 sighthound
 weight pulling
-racing
-racing
+dachshund racing
+barrel racing
 charreada
 chilean rodeo
 cross-country equestrianism
 dressage
-bike riding
+horse
 english pleasure
 equitation
 eventing
 equestrian vaulting
 gymkhana
-racing
-racing
-horseball
+harness racing
+horse
+horse
 hunt seat
 reining
 rodeo
-bike riding
+bull riding
 bullfighting
 show jumping
 steeplechase
 team penning
 western pleasure
-racing
-racing
-racing
-racing
+motorcycle racing
+auto race
+road racing
+endurance racing (motorsport)
 enduro
 freestyle motocross
 grand prix motorcycle racing
 rally raid
-racing
-racing
-racing
-racing
+motocross
+snow boarding
+motorcycle speedway
+superbike racing
 supermoto
-racing
+track racing
 trial
 isle of man tt
 motorcycle drag racing
 all-terrain vehicle
 remote control
-radio-controlled car
-robot combat
-racing
-racing
+truck racing
+truck racing
+truck racing
+autocross
 autograss
-racing
+banger racing
 demolition derby
-racing
-racing
-racing
-motorsport
+desert racing
+dirt track racing
+drag racing
+bike racing
 folkrace
-racing
-racing
+formula racing
+kart racing
 monster truck
 mud bogging
-racing
+bike racing
 race of champions
-rallycross
-rallying
+bike racing
+truck racing
 short track motor racing
-racing
-racing
-racing
-racing
+sports car racing
+sprint car racing
+street racing
+stock car racing
 time attack
 tractor pulling
-racing
-racing
-racing
-racing
-racing
-jetsprint
+touring car racing
+truck racing
+motorboat racing
+truck racing
+hydroplane racing
+truck racing
 personal water craft
-racing
+drag boat racing
 badminton
 basque pelota
-tenis
+frontenis
 jai alai
 beach tennis
 lacrosse
@@ -329,35 +330,35 @@ women's lacrosse
 padel tennis
 pickleball
 racquetball
-tennis
-handball
-handball
-handball
-handball
+soft tennis
+team handball
+goalball
+tchoukball
+beach handball
 hockey
-hockey
-hockey
+underwater hockey
+ball hockey
 bandy
 broomball
-hockey
-hockey
+field hockey
+indoor field hockey
 floorball
-hockey
+ice hockey
 ringette
-hockey
-hockey
-hockey
-hockey 
-hockey
-hockey
+pond hockey
+roller hockey
+inline hockey
+roller hockey (quad)
+sledge hockey
+street hockey
 polo
-polo
+canoe polo
 sepak takraw
-football
+association football
 ulama
 paintball
 volleyball
-volleyball
+beach volleyball
 color guard (flag spinning)
 capture the flag
 hide-and-seek
@@ -374,8 +375,9 @@ slamball
 kickball
 baseball
 cricket
-cricket
-cricket
+limited overs cricket
+one day international
+test cricket
 twenty20
 rounders
 softball
@@ -385,18 +387,18 @@ beach soccer
 futsal
 indoor soccer
 street football
-football
-football
-football
-football
-football
-football
-football
-football
+australian rules football
+gaelic football
+gridiron football
+american football
+flag football
+indoor american football
+canadian football
+arena football
 rugby
 rugby sevens
-football 
-football
+football tennis
+footvolley
 dodgeball
 ga-ga
 rundown
@@ -445,9 +447,9 @@ iaidō
 jōdō
 kendo
 sailing
-sailing
-sailing
-sailing
+land sailing
+windsurfing
+dinghy sailing
 rowing (sport)
 dragon boat
 fishing
@@ -455,13 +457,13 @@ angling
 big-game fishing
 casting (fishing)
 noodling
-fishing
-fishing
-fishing
-fishing
+spearfishing
+surf fishing
+rock fishing
+fly fishing
 diving
-diving
-diving
+climbing
+scuba diving
 snorkeling
 canoeing
 kayaking
@@ -471,15 +473,15 @@ surf kayaking
 whitewater kayaking
 rafting
 gliding
-gliding
-gliding
-gliding
-gliding
-gli
-jumping
-wingsuit flying
+hang gliding
+powered hang glider
+paragliding
+powered paragliding
+parachuting
+climbing
+snow boarding
 ultralight aviation
 aerobatics
-air racing
-hot air balloo
+horse
+hot air ballooning
 model aircraft
